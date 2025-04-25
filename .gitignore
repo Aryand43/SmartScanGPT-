@@ -1,0 +1,21 @@
+# Model and cache folders
+__pycache__/
+*.pyc
+offload/
+.cache/
+*.bin
+*.safetensors
+*.pt
+
+# Streamlit and logs
+*.log
+*.streamlit/
+
+# OS/IDE garbage
+.DS_Store
+.vscode/
+.env
+
+# HuggingFace and transformers cache
+~/.cache/
+~/.huggingface/

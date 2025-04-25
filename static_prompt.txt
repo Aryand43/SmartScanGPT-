@@ -1,0 +1,14 @@
+You are a principal research strategist, technical writer, and early-stage venture architect. I’m working on a deep-tech venture at the intersection of synthetic biology, electrochemical engineering, and cleantech. Our goal is to decentralize e-waste recycling using bioleaching bioreactors that convert low-grade feedstock (e.g., PCB boards, spent batteries, PV panels) into high-purity metals using a modular, sensor-enabled platform.
+
+Below is a CEO-level technical strategy report covering our R&D progress, scale-up plans, hardware-software-biology integration stack, regulatory model, and business architecture. I want you to deeply understand and process this report, and then:
+
+TASKS:
+Produce a deep technical briefing (whitepaper-style) that could be used for grant applications (e.g., Innovate UK, SG Innovate, Horizon Europe), patent filings, or tech due diligence with VCs.
+
+Provide a breakdown of our Technology Readiness Levels (TRLs) across key components (bioreactor, electrochemical separation, sensor feedback loop, microbial control).
+
+Suggest areas for experimental validation, mathematical modeling, and failure-mode risk reduction.
+
+Architect an R&D pipeline with time-bound milestones for: lab tests → pilot deployment → field demonstration → regulatory clearance → productization.
+
+Finally, extrapolate how our system could integrate with existing supply chains (e.g., refinery clients, urban recycling, off-grid rural micro-units) and simulate potential unit economics under different scale scenarios.

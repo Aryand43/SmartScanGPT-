@@ -1,0 +1,7 @@
+streamlit
+openai
+easyocr
+pytesseract
+pillow
+transformers 
+torch
